@@ -24,7 +24,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 ## ᴇxᴀᴍᴩʟᴇ ᴏғ ᴀɴ ᴡᴇʙʜᴏᴏᴋ 👇🏻:
 
-<p align="center"><a href="https://t.me/full_masti_clubs"><img src="LOGO"></a></p>
+<p align="center"><a href="https://t.me/full_masti_clubs"><img src="https://telegra.ph/file/c694e61f7faa468ee136d.jpg"></a></p>
 
 # ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴩs:
 - Install all requirements, `pip3 install -r requirements.txt`
