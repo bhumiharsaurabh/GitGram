@@ -1,6 +1,6 @@
 # ɢɪᴛɢʀᴀᴍ
 
-<p align="center"><a href="https://t.me/full_masti_clubs"><img src="LOGO"></a></p>
+<p align="center"><a href="https://t.me/full_masti_clubs"><img src="https://telegra.ph/file/d98b472d2f8838c2b698c.jpg"></a></p>
 
  A Telegram Bot to notify you about your Github Repository Events
 
