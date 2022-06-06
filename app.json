@@ -1,9 +1,9 @@
 {
   "name": "ɢɪᴛɢʀᴀᴍ ʙᴏᴛ",
   "description": "A Telegram Bot which will notify you about events of your GitHub Repo.",
-  "logo": "LOGO",
+  "logo": "https://telegra.ph/file/d98b472d2f8838c2b698c.jpg",
   "keywords": ["gitgram", "github", "events"],
-  "repository": "https://github.com/Abhumiharsaurabh/GitGram",
+  "repository": "https://github.com/bhumiharsaurabh/GitGram",
   "stack": "container",
   "env": {
     "ENV": {
